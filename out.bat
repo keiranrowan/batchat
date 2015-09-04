@@ -2,6 +2,7 @@
 set /p file=Enter Chat File Location:
 cls
 :a
+cls
 type %file%
-ping 192.0.2.1 -n 1 -w 100 >nul
+timeout 1
 goto a
