@@ -26,7 +26,7 @@ Quits the Program.
 
 #### `.shell`
 
-Escapes into the shell. Type `exit` to return to the chat.
+Escapes into the shell. Try using with [GNU on Windows](https://github.com/bmatzelle/gow) Type `exit` to return to the chat.
 
 #### `.username`
 
