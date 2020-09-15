@@ -1,6 +1,6 @@
 # Batchat
 
-Really simple chat system that uses a single file to chat. This allows you to put a file on a network drive and chat through the network drive.
+Really simple chat system I wrote in middle school that uses a single file to chat. This allows you to put a file on a network drive and chat through the network drive. Obvious flaws include editing of the chat file by anyone with write access to it and the lack of privacy as it's just a plaintext file. This repository exists for historical reasons (nostalgia) and will not be updated. 
 
 ## Using Chatfiles
 
